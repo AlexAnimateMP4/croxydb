@@ -1,0 +1,7 @@
+{
+    "errors": {
+        "blankName": "Veuillez écrire le nom de la base de donnée.",
+        "blankData": "Veuillez renseigner une/des donnée(s).",
+        "blankNumber": "Veuillez renseigner un nombre."
+    }
+}
